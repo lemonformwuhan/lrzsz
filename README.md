@@ -41,9 +41,7 @@ Parameters: /usr/local/bin/iterm2-recv-zmodem.sh
 Instant: checked
 ```
 
-示例图：
 
-<img src="https://raw.githubusercontent.com/snow-sprite/rzsz/master/triggers.jpg">
 
 ## 5. 在服务器端使用
 
